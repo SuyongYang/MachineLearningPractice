@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Do it! 딥러닝 입문
 
 ![커버이미지](cover.jpg)
@@ -22,3 +23,6 @@
 - 07 여러 개를 분류합니다 ― 다중 분류 [nbviewer](https://nbviewer.jupyter.org/github/rickiepark/do-it-dl/blob/master/Ch07.ipynb), [colab](https://colab.research.google.com/github/rickiepark/do-it-dl/blob/master/Ch07.ipynb)
 - 08 이미지를 분류합니다 ― 합성곱 신경망 [nbviewer](https://nbviewer.jupyter.org/github/rickiepark/do-it-dl/blob/master/Ch08.ipynb), [colab](https://colab.research.google.com/github/rickiepark/do-it-dl/blob/master/Ch08.ipynb)
 - 09 텍스트를 분류합니다 ― 순환 신경망 [nbviewer](https://nbviewer.jupyter.org/github/rickiepark/do-it-dl/blob/master/Ch09.ipynb), [colab](https://colab.research.google.com/github/rickiepark/do-it-dl/blob/master/Ch09.ipynb)
+=======
+# MachineLearningPractice
+>>>>>>> ea2bf31734394ffc656ac4dfdf43662e1d9035f5
